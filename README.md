@@ -1,7 +1,11 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 - 🔭 Je travaille actuellement sur MelodyMapper (https://kbelony.github.io/MelodyMapper/)
+
+
 - 🌱 J'apprends actuellement **React , Redux et Svelte**
+
 - 📫 Comment me joindre **kalvin.sgb@outlook.com**
+
 - 👨‍💻 Tous mes projets sont disponibles ici : **https://kbelony.webflow.io/**
 - 📄 Connaître mes expériences **https://www.linkedin.com/in/kalvin-belony-sagbo-%F0%9F%92%BB-16505b222/**
 
