@@ -1,6 +1,6 @@
 
-<h4 align="left">🔭 Je travaille actuellement sur MelodyMapper (https://kbelony.github.io/MelodyMapper/)</h4>
-<h4 align="left">👨‍💻 Tous mes projets sont disponibles ici : https://kbelony.webflow.io/</h4>
+<h3 align="left">🔭 Je travaille actuellement sur MelodyMapper (https://kbelony.github.io/MelodyMapper/)</h3>
+<h3 align="left">👨‍💻 Tous mes projets sont disponibles ici : https://kbelony.webflow.io/</h3>
 
 <h3 align="left">Langages</h3>
 <p align="left">
